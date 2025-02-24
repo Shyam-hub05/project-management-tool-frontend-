@@ -1,0 +1,1 @@
+The Project Management Tool is a modern application designed to streamline project workflows.
